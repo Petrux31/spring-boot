@@ -11,6 +11,7 @@
 	<groupId>com.std.ec</groupId>
 	<artifactId>mi-primer-api-rest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>mi-primer-api-rest</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
